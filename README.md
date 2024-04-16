@@ -8,6 +8,11 @@
 
 This course delves into the second semester of Automatic Control Theory for the year 2024 at ITMO University. You can explore the course structure on [Notion](https://tranquil-geese-65e.notion.site/2023-24-2-2d3385312e354729be8e0fa4f4ebdffb).
 
+
+<div style="border: 1px solid #999; padding: 10px; border-radius: 5px;">
+    <img src="docs/image.png" alt="Example Image">
+</div>
+
 # Table of contents
 
 ```text
@@ -20,7 +25,7 @@ Automatic-Control-Theory/
 ├── requirements.txt                # Python dependencies list for pip
 │
 └── src/                            # Source code directory
-    ├── lectures/                   # Directory for lecture materials
+    ├── homework/                  # Directory for homework materials
     └── practice/                   # Directory for practice materials
 
 ```
